@@ -8,7 +8,7 @@ I produce feature films and build the AI-native tooling that runs them.
 
 **[Méliès](https://melies.lhkkn.com)** — a production-management platform (scheduling, treasury, budgeting, contracts) that I developed while producing my own features and iterated on live shoots. React + TypeScript front end, Python back end, ~800 tests. *Live demo — one click, no login needed.*
 
-**Conductor** — an MCP control plane that lets AI agents operate across a whole software workspace (project inventory, drift detection, context assembly), with a secrets layer that keeps API keys out of LLM context. Python, standard library only.
+**[conductor-mcp](https://github.com/lhkkn/conductor-mcp)** — a dependency-free MCP server, hand-rolled in the Python standard library, that lets AI agents read a software workspace (project inventory, context assembly, drift detection). The extracted, runnable core of a larger personal control plane.
 
 **[Kinoism](https://kinoism.com)** — a live cinema showtime platform across 22 theaters in NYC and LA.
 

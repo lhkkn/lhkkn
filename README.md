@@ -1,7 +1,5 @@
 # Kevin Phien Le
 
-**Film producer & software engineer — AI-native systems.**
-
 ## What I'm building
 
 **[Regulator](https://github.com/lhkkn/regulator)** — a dependency-free MCP server, hand-rolled in the Python standard library, that gives AI agents a governed interface to a software workspace: project inventory, context assembly, drift detection, key audit, health, and off-machine backup. Reads are open; every write runs through a verified actuator — dry-run by default, with an append-only audit ledger. The control plane behind my own practice.
